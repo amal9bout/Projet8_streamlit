@@ -1,7 +1,7 @@
 annotated-types==0.7.0
 anyio==4.4.0
 asttokens==2.4.1
-altair==5.0.1
+altair==4.2.2
 blinker==1.8.2
 certifi==2024.6.2
 click==8.1.7
