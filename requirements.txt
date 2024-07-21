@@ -39,7 +39,7 @@ numpy==2.0.0
 openpyxl==3.1.2
 orjson==3.10.5
 packaging==24.1
-pandas==2.2.2
+pandas==2.0.1
 parso==0.8.4
 platformdirs==4.2.2
 prompt_toolkit==3.0.47
@@ -54,7 +54,7 @@ python-multipart==0.0.9
 pytz==2024.1
 PyYAML==6.0.1
 pyzmq==26.0.3
-pyecharts==2.2.0
+pyecharts==2.0.6
 plotly==5.14.1
 rich==13.7.1
 scikit-learn==1.5.0
