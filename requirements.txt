@@ -13,3 +13,4 @@ matplotlib
 plotly
 numpy
 shap
+streamlit_echarts
